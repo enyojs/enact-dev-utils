@@ -1,3 +1,8 @@
+# unreleased
+
+* `option-parser`: Set default theme config to `limestone`.
+* `SnapshotPlugin`: Added `limestone` support for clearing resource bundle.
+
 # 7.0.0-alpha.3 (January 15, 2025)
 
 * Updated all dependencies to the latest including React 19.
